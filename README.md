@@ -1,1 +1,1 @@
-a repository on shell basics, bash script.
+project on shell initialization files, variables and expansions; and also aliases
